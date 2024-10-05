@@ -26,12 +26,12 @@ Clone the repository:
 
 bash
 Copy code
-[https://github.com/Er-vipul/Gainpro-main.git]
+[https://github.com/Er-vipul/Gainpro.git]
 Navigate to the project directory:
 
 bash
 Copy code
-cd Gainpro-main
+cd Gainpro
 Open the index.html file in your web browser to view the website:
 
 bash
