@@ -1,5 +1,6 @@
 /**
  * demo2.js
+ */
 {
     // From javascript-debounce-function.
     function debounce(func, wait, immediate) {
